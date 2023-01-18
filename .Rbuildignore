@@ -22,3 +22,7 @@ inst/dcmtk*
 ^\\.Rproj\\.user$
 ^\.github$
 ^README\.Rmd$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
